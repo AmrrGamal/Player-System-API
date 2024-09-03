@@ -1,0 +1,7 @@
+to run :
+open xampp
+click on project name and run 
+then get URLs and go to postman to run 
+
+check portnumber in url before postman
+and check request method in postman 
